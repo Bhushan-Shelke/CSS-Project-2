@@ -11,7 +11,7 @@ box-shadow: 3px 2px 3px solid black;
 }
 .h1{
     display: inline-block;
-     margin-left: 200px;
+     margin-left: 76px;
 
     
 }
@@ -28,10 +28,15 @@ box-shadow: 3px 2px 3px solid black;
 }
 .txt{
     text-align: right;
-    margin-left: 700px;
-    font-size: 25px;
-    letter-spacing: 4px;
+    margin-left: 600px;
+    font-size: 5px;
+    /* letter-spacing: 4px; */
 
+}
+.king{
+    font-size: small;
+    margin-top: 9px;
+    position: absolute;
 }
 .box1{
 
@@ -39,12 +44,13 @@ box-shadow: 3px 2px 3px solid black;
     height: 210px;
     border: 0px;
     background-color: white;
-    margin-left: 202px;
+    margin-left: -10px;
     color: rgb(0,165,236);
     box-sizing: border;
     padding: 30px;
     font: 400;
     font-family: sans-serif;
+    text-decoration: none;
 }
 .box1:hover{
     box-shadow:0px 0px 15px grey;
@@ -77,7 +83,7 @@ width: 220px;
     height: 210px;
     border: 0px;
     background-color:white;
-    margin-left: 508px;
+    margin-left: 403px;
     margin-top: -270px;
     color: rgb(0,165,236);
     box-sizing: border;
@@ -142,7 +148,8 @@ width: 220px;
     height: 210px;
     border: 0px;
     background-color: white;
-    margin-left: 202px;
+    margin-left: -11px;
+    margin-top: 30px;
     color: rgb(0,165,236);
     box-sizing: border;
     padding: 30px;
@@ -166,8 +173,8 @@ width: 220px;
     height: 210px;
     border: 0px;
     background-color:white;
-    margin-left: 508px;
-    margin-top: -305px;
+    margin-left: 403px;
+    margin-top: -270px;
     color: rgb(0,165,236);
     box-sizing: border;
     padding: 30px;
